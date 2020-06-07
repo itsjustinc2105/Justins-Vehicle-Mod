@@ -14,7 +14,7 @@ function JVMOD.InitVehicle(veh)
         print(body)
     end,
     function(err)
-        -- kill script
+        -- kill script fully
         print("Error")
     end)
 end

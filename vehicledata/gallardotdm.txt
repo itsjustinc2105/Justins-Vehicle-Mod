@@ -1,0 +1,1 @@
+{"Lights":[],"Seats":[{"Pos":"[17.79 15.2 22.62]","DoorSounds":true,"Ang":"{17 0 0}","EnterRange":80.0,"RadioControl":true}]}

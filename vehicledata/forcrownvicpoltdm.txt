@@ -1,0 +1,1 @@
+{"Lights":[],"Seats":[{"Ang":"{0 0 0}","Pos":"[18.27 10.24 28.19]","RadioControl":true},{"Switch_Rear":true,"Cant_Exit_Lock":true,"Ang":"{0 0 0}","Pos":"[-18.27 -35.29 32.95]"},{"Switch_Rear":true,"Cant_Exit_Lock":true,"Ang":"{0 0 0}","Pos":"[18.27 -35.29 32.95]"}]}

@@ -1,0 +1,1 @@
+{"Lights":[],"Seats":[{"Pos":"[18.002 12.8638 42.3505]","DoorSounds":true,"Ang":"{0 0 0}","EnterRange":80.0,"RadioControl":true},{"Ang":"{0 0 0}","Pos":"[-18.002 -22.1362 42.3505]","EnterRange":80.0,"DoorSounds":true},{"Ang":"{0 0 0}","Pos":"[18 -22.14 42.35]","EnterRange":80.0,"DoorSounds":true}]}
